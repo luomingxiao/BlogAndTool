@@ -1,5 +1,7 @@
 # BlogAndTool
-一些在网上找到的iOS学习博客和开发工具
+一些在网上找到的iOS学习博客和开发工具用于学习
+-----|-----
+
 博客地址 | RSS地址
 ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
