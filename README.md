@@ -50,3 +50,18 @@
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
 [向晨宇的技术博客](http://www.iosxxx.com/) | <http://iosxxx.com/atom.xml>
+
+### iOS开发网站
+网站名称/地址 | 网站简介
+----- | -----
+[objc](https://www.objc.io/) | 定期发布一些有关 Objective-C 的高质量的文章
+[objc中国](http://objccn.io/) | 喵神组织的对 objc.io 的翻译网站
+[NSHipster](http://nshipster.cn/) | 关注被忽略的 Objective-C、Swift 和 Cocoa 特性
+[CocoaChina](http://www.cocoachina.com) | 最大苹果开发者中文社区
+[code4app](http://www.code4app.com) | 国内的iOS开源资源网站
+[飞行日志](http://blog.fir.im) | fir.im主办的博客，很多高质量技术博客
+[iconfont](http://www.iconfont.cn) | 阿里巴巴旗下高质量图标资源库
+[干货集中营](http://gank.io) | 每日按时分享Android、iOS等高质量资源，可邮件订阅
+[泊学](https://boxueio.com) | 服务于一线开发者的前沿技术视频网站
+[SwiftGG](http://swift.gg) | 走心的 Swift 翻译组
+[51ios.net](http://www.51ios.net) | iOS开发资源聚合网站
